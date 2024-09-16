@@ -131,6 +131,7 @@
             background-color: #ffffff;
             float: left;
             border-top-left-radius: 0;
+            text-align: right;
         }
         .user-message {
             background-color: #dcf8c6;
